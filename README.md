@@ -13,7 +13,7 @@ python3 main.py
 
 ## Demo
 
-![]()
+![](https://github.com/twers1/chatGPT-bot/blob/main/gif/demogpt.gif)
 
 # ChatGPT
 
@@ -30,4 +30,4 @@ python3 main.py
 
 ## Демонстрация 
 
-![]()
+![](https://github.com/twers1/chatGPT-bot/blob/main/gif/demogpt.gif)
